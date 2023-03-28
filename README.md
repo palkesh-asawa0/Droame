@@ -9,11 +9,11 @@ To install the web application, follow the below steps:
 1. Clone the repository from the GitHub link provided.
 2. Navigate to the root directory of the application.
 3. Install the dependencies by running the following command in the terminal:
-### npm install
+###       npm install
 4. Start the server by navigating to backend and then running the following command in the terminal:
-### npm run server:dev
+###        npm run server:dev
 5. Start the app by navigating to frontend and then running the following command in the terminal:
-### npm start
+###        npm start
 6. The application will start on http://localhost:3000/ in the browser.
 
 # Usage:
