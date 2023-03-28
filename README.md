@@ -13,9 +13,13 @@ To install the web application, follow the below steps:
     npm install
     ```
 4. Start the server by navigating to backend and then running the following command in the terminal:
-####                        npm run server:dev
+```
+npm run server:dev
+```
 5. Start the app by navigating to frontend and then running the following command in the terminal:
-####                        npm start
+```
+npm start
+```
 6. The application will start on http://localhost:3000/ in the browser.
 
 # Usage:
