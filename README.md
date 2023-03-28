@@ -2,7 +2,11 @@
 This documentation is for a MERN-based web application that allows an operator to manage customers and their bookings for drone shots. The web application allows the operator to create, edit, and delete bookings for a particular customer. It also allows the operator to create customers and edit their details.
 
 # Technology stack:
-The web application is built using the MERN stack. The MERN stack includes MongoDB, Express, React, and Node.js. MongoDB is used as the database, Express is used as the backend framework, React is used as the frontend framework, and Node.js is used as the server-side runtime environment.
+The web application is built using the MERN stack. The MERN stack includes MongoDB, Express, React, and Node.js. 
+1. MongoDB is used as the database,
+2. Express is used as the backend framework, 
+3. React is used as the frontend framework, and 
+4. Node.js is used as the server-side runtime environment.
 
 # Installation:
 To install the web application, follow the below steps:
