@@ -32,6 +32,7 @@ To use the web application, follow the below steps:
 6. To create a new booking, click on the "Create Booking" button on the bottom right corner of the page. Fill in the booking details and click on the "Save" button to add the booking.
 7. To edit an existing booking, click on the "Edit" icon next to the booking details. Make the necessary changes and click on the "Update" button to update the booking details.
 8. To delete a booking, click on the "Delete" icon next to the booking details. Confirm the action by clicking on the "Delete" button in the dialog box that appears.
+9. The operator can search for customers and bookings based on their name, location, and date using search feature.
 
 # Conclusion:
 This documentation provides an overview of the MERN-based web application that allows an operator to manage customers and their bookings for drone shots. It includes information about the technology stack, installation, and usage of the web application. With this web application, operators can easily create, edit, and delete customers and their bookings.
